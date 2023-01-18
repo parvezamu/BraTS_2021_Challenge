@@ -2,7 +2,8 @@
 BraTS 2021 Docker image 
 
 Our docker image (https://hub.docker.com/repository/docker/parvezamu/tyagi_2021) can be used on BraTS 2018, BraTS 2019, BraTS 2020,  BraTS 2021 validation and testing datasets. 
-Docker image can be downloaded using the command: docker push parvezamu/tyagi_2021:tagname
+Docker image can be downloaded using the command: docker pull parvezamu/tyagi_2021:parvezamu_2024
+
 
 It can be run for the outputs:
 
